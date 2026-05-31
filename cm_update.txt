@@ -1,2 +1,0 @@
-2.0
-https://raw.githubusercontent.com/mofeng601-hue/test-version-car/refs/heads/main/version.txt
